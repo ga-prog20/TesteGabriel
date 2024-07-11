@@ -1,0 +1,19 @@
+body {
+    padding-top: 50px;
+    font-size: 20px;
+  }
+  
+  .nav {
+    float: right;
+    font-size: 16px;
+    width: max-content;
+  }
+  
+  .navbar {
+    background-color: #24292e;
+  }
+  
+  .principal {
+    padding: 40px 15px;
+    text-align: center;
+  }
